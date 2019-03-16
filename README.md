@@ -1,2 +1,9 @@
-# medium-clone-flutter
-This is the clone of medium app(only ui)
+# MEDIUM CLONE (ONLY UI)
+
+Learning Flutter (Also to be used as boilerplate for future projects)
+
+### SCREENSHOTS
+
+|                   |                   |
+| :---------------: | :---------------: |
+| ![1](screen1.png) | ![2](screen2.png) |
